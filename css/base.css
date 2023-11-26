@@ -414,7 +414,7 @@ textarea {
 	float: left;
 }
 
-[class*="col-"] + [class*="col-"].end {
+[class*="col-"]+[class*="col-"].end {
 	float: right;
 }
 
@@ -600,7 +600,7 @@ textarea {
 		padding: 0;
 	}
 
-	[class*="col-"] + [class*="col-"].end {
+	[class*="col-"]+[class*="col-"].end {
 		float: none;
 	}
 
