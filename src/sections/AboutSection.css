@@ -1,0 +1,54 @@
+.about-section {
+  padding: 8rem 0;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.profile-image-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-image {
+  width: 280px;
+  height: 280px;
+
+  object-fit: cover;
+
+  border-radius: 50%;
+
+  border: 2px solid rgba(201, 162, 39, 0.3);
+
+  box-shadow: 0 0 40px rgba(201, 162, 39, 0.15);
+}
+
+.about-content p {
+  margin-bottom: 1.5rem;
+  line-height: 1.9;
+  opacity: 0.9;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  margin-top: 2rem;
+}
+
+.tags span {
+  padding: 0.6rem 1rem;
+
+  border-radius: 999px;
+
+  background: rgba(201, 162, 39, 0.1);
+
+  border: 1px solid rgba(201, 162, 39, 0.3);
+
+  color: var(--accent);
+}

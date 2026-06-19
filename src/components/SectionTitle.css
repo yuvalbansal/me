@@ -1,0 +1,16 @@
+.section-title {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.section-title h2 {
+  font-family: var(--font-heading);
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.section-title p {
+  opacity: 0.7;
+  max-width: 700px;
+  margin: auto;
+}

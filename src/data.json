@@ -1,0 +1,394 @@
+{
+  "home_data": "-------------------- HOME PAGE --------------------",
+
+  "personal": {
+    "name": "Yuval Bansal",
+    "profileImage": "/profile.jpg"
+  },
+
+  "about": {
+    "title": "About Me",
+    "subtitle": "A curious engineer exploring ideas through technology, books, music and writing.",
+
+    "bio": [
+      "I graduated from IIT Kanpur and enjoy building systems, solving difficult problems, and exploring ideas across disciplines.",
+      "My interests span machine learning, robotics, software engineering, philosophy, music and writing."
+    ],
+
+    "tags": [
+      "Machine Learning",
+      "Robotics",
+      "Data Engineering",
+      "Music",
+      "Writing",
+      "Philosophy"
+    ]
+  },
+
+  "contact": {
+    "title": "Let's Connect",
+
+    "subtitle": "Always happy to discuss ideas, books, music, technology, or anything interesting.",
+
+    "intro": [
+      "If something on this website resonates with you, feel free to reach out.",
+      "I'm particularly interested in conversations around technology, engineering, philosophy, writing and music."
+    ]
+  },
+
+  "socials": {
+    "linkedin": "https://linkedin.com/in/YOUR_LINKEDIN",
+    "github": "https://github.com/YOUR_GITHUB",
+    "spotify": "https://spotify.com",
+    "email": "your@email.com"
+  },
+
+  "footer": {
+    "text": "Built with curiosity."
+  },
+
+  "navbar": {
+    "logo": "YB",
+    "links": [
+      {
+        "label": "About",
+        "href": "/"
+      },
+      {
+        "label": "Soundtrack",
+        "href": "/music"
+      },
+      {
+        "label": "Library",
+        "href": "/books"
+      },
+      {
+        "label": "Thoughts",
+        "href": "/thoughts"
+      }
+    ]
+  },
+
+  "hero": {
+    "name": "Yuval Bansal",
+    "title": "Engineer. Reader. Musician. Writer.",
+    "description": "Exploring ideas through technology, music, books and writing.",
+    "scrollText": "Scroll to Explore",
+
+    "statusItems": [
+      "Currently reading: Sophie's World",
+      "Currently listening: Jeff Beck",
+      "Currently building: Personal Website",
+      "Currently thinking about: Meaning and Fulfilment"
+    ]
+  },
+
+  "currentFocus": {
+    "title": "Current Focus",
+    "subtitle": "A snapshot of what occupies my attention these days.",
+
+    "items": [
+      {
+        "category": "Reading",
+        "value": "Sophie's World",
+        "icon": "📚"
+      },
+      {
+        "category": "Listening",
+        "value": "Jeff Beck",
+        "icon": "🎸"
+      },
+      {
+        "category": "Building",
+        "value": "Personal Website",
+        "icon": "💻"
+      },
+      {
+        "category": "Learning",
+        "value": "Machine Learning & AI",
+        "icon": "🧠"
+      },
+      {
+        "category": "Writing",
+        "value": "Essays & Journals",
+        "icon": "✍️"
+      },
+      {
+        "category": "Thinking About",
+        "value": "Meaning & Fulfilment",
+        "icon": "🌌"
+      }
+    ]
+  },
+
+  "timelineSection": {
+    "title": "Journey",
+    "subtitle": "A few milestones that shaped who I am."
+  },
+
+  "timeline": [
+    {
+      "year": "2022",
+      "title": "Started at IIT Kanpur",
+      "description": "Began my journey in Mechanical Engineering while exploring programming, robotics and technology."
+    },
+    {
+      "year": "2023",
+      "title": "Competitive Programming",
+      "description": "Developed strong problem-solving skills and became active in competitive programming."
+    },
+    {
+      "year": "2024",
+      "title": "Inter IIT Tech Meet",
+      "description": "Worked on challenging engineering projects and earned medals representing IIT Kanpur."
+    },
+    {
+      "year": "2025",
+      "title": "Data Engineering Internship",
+      "description": "Built ETL systems, machine learning pipelines and production-ready solutions."
+    },
+    {
+      "year": "2026",
+      "title": "Graduation",
+      "description": "Completed my degree while continuing to explore software, AI, writing and music."
+    }
+  ],
+
+  "quotes": [
+    {
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "quote": "He who has a why to live can bear almost any how.",
+      "author": "Nietzsche"
+    },
+    {
+      "quote": "We are what we repeatedly do.",
+      "author": "Aristotle"
+    },
+    {
+      "quote": "Man is condemned to be free.",
+      "author": "Jean-Paul Sartre"
+    },
+    {
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "quote": "He who has a why to live can bear almost any how.",
+      "author": "Nietzsche"
+    },
+    {
+      "quote": "We are what we repeatedly do.",
+      "author": "Aristotle"
+    },
+    {
+      "quote": "Man is condemned to be free.",
+      "author": "Jean-Paul Sartre"
+    }
+  ],
+
+  "music_data": "-------------------- MUSIC PAGE --------------------",
+
+  "musicPage": {
+    "title": "Soundtrack",
+    "subtitle": "Music that has accompanied different chapters of my life.",
+    "description": "From classic rock and blues to film scores and soul, these are the artists whose work continues to inspire me.",
+
+    "favouriteArtist": {
+      "name": "The Beatles",
+      "quote": "All you need is love."
+    }
+  },
+
+  "artists": [
+    {
+      "name": "The Beatles",
+      "image": "/artists/the-beatles.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/3WrFJ7ztbogyGnTHbHJFl2",
+      "genres": ["Rock", "Pop", "Psychedelic Rock"],
+      "note": "Timeless songwriting, constant reinvention, and a catalogue that continues to influence generations of musicians."
+    },
+    {
+      "name": "Pink Floyd",
+      "image": "/artists/pink-floyd.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/0k17h0D3J5VfsdmQ1iZtE9",
+      "genres": ["Progressive Rock", "Psychedelic Rock"],
+      "note": "Immersive albums that blend music, philosophy, and storytelling into unforgettable journeys."
+    },
+    {
+      "name": "Olivia Dean",
+      "image": "/artists/olivia-dean.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/00x1fYSGhdqScXBRpSj3DW",
+      "genres": ["Soul", "R&B", "Pop"],
+      "note": "Warm vocals, intimate songwriting, and a refreshing sense of sincerity and optimism."
+    },
+    {
+      "name": "Radiohead",
+      "image": "/artists/radiohead.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/4Z8W4fKeB5YxbusRsdQVPb",
+      "genres": ["Alternative Rock", "Art Rock", "Experimental Rock"],
+      "note": "Restless experimentation and deeply introspective songwriting that rewards repeated listening."
+    },
+    {
+      "name": "Taylor Swift",
+      "image": "/artists/taylor-swift.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02",
+      "genres": ["Pop", "Country Pop", "Singer-Songwriter"],
+      "note": "A remarkable ability to transform personal experiences into songs that resonate with millions."
+    },
+    {
+      "name": "Bob Dylan",
+      "image": "/artists/bob-dylan.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/74ASZWbe4lXaubB36ztrGX",
+      "genres": ["Folk Rock", "Singer-Songwriter"],
+      "note": "Poetic lyricism and storytelling that blur the line between music and literature."
+    }
+  ],
+
+  "books_data": "-------------------- BOOKS PAGE --------------------",
+
+  "booksPage": {
+    "title": "Library",
+    "subtitle": "Books that shaped how I think.",
+    "description": "A collection of books that influenced my ideas, challenged my assumptions and expanded my perspective.",
+    "currentlyReading": "Sophie's World"
+  },
+
+  "books": [
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "cover": "/books/sapiens.jpg",
+      "rating": 5,
+      "category": "History",
+      "dateRead": "Month Year",
+      "pages": 443,
+      "note": "A sweeping exploration of human history, from hunter-gatherers to modern civilizations."
+    },
+    {
+      "title": "Why I Am an Atheist",
+      "author": "Bhagat Singh",
+      "cover": "/books/why-i-am-an-atheist.jpg",
+      "rating": 5,
+      "category": "Philosophy",
+      "dateRead": "Month Year",
+      "pages": 38,
+      "note": "A thoughtful and courageous defense of rational inquiry, skepticism, and intellectual independence."
+    },
+    {
+      "title": "The Story of My Experiments with Truth",
+      "author": "Mahatma Gandhi",
+      "cover": "/books/gandhi-autobiography.jpg",
+      "rating": 4,
+      "category": "Autobiography",
+      "dateRead": "Month Year",
+      "pages": 560,
+      "note": "An honest account of Gandhi's lifelong pursuit of truth, self-discipline, and moral growth."
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "cover": "/books/the-stranger.jpg",
+      "rating": 5,
+      "category": "Literature",
+      "dateRead": "Month Year",
+      "pages": 123,
+      "note": "A powerful existential novel exploring absurdity, meaning, and the human condition."
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "cover": "/books/zero-to-one.jpg",
+      "rating": 4,
+      "category": "Business",
+      "dateRead": "Month Year",
+      "pages": 224,
+      "note": "A provocative perspective on innovation, startups, and building things that have never existed before."
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "cover": "/books/mans-search-for-meaning.jpg",
+      "rating": 5,
+      "category": "Psychology",
+      "dateRead": "Month Year",
+      "pages": 184,
+      "note": "A profound reflection on suffering, resilience, and humanity's search for purpose."
+    }
+  ],
+
+  "thoughts_data": "-------------------- THOUGHTS PAGE --------------------",
+
+  "thoughtsPage": {
+    "title": "Thoughts",
+    "subtitle": "Poems, journals and articles.",
+    "description": "Some writings are records of moments. Some are attempts to understand the world. Others are simply questions."
+  },
+
+  "writings": {
+    "poems": [
+      {
+        "title": "The Weight of Rain",
+        "date": "June 2026",
+        "excerpt": "A poem about memory and time.",
+        "file": "/writings/poems/the-weight-of-rain.md"
+      },
+      {
+        "title": "Midnight Lanterns",
+        "date": "May 2026",
+        "excerpt": "Fragments of light scattered across a silent night.",
+        "file": "/writings/poems/midnight-lanterns.md"
+      },
+      {
+        "title": "Sea of Dust",
+        "date": "April 2026",
+        "excerpt": "A meditation on distance, silence and passing seasons.",
+        "file": "/writings/poems/sea-of-dust.md"
+      }
+    ],
+
+    "journals": [
+      {
+        "title": "Graduation Day",
+        "date": "June 2026",
+        "excerpt": "Reflections on leaving IIT Kanpur.",
+        "file": "/writings/journals/graduation-day.md"
+      },
+      {
+        "title": "A Walk Through Campus",
+        "date": "March 2026",
+        "excerpt": "Thoughts from an ordinary evening that felt unexpectedly significant.",
+        "file": "/writings/journals/a-walk-through-campus.md"
+      },
+      {
+        "title": "Summer in Gurgaon",
+        "date": "July 2025",
+        "excerpt": "Notes from a season of work, uncertainty and growth.",
+        "file": "/writings/journals/summer-in-gurgaon.md"
+      }
+    ],
+
+    "articles": [
+      {
+        "title": "Meaning and Fulfilment",
+        "date": "June 2026",
+        "excerpt": "Thoughts on purpose, commitment and happiness.",
+        "file": "/writings/articles/meaning-and-fulfilment.md"
+      },
+      {
+        "title": "The Value of Difficult Problems",
+        "date": "May 2026",
+        "excerpt": "Why challenging pursuits often become the most rewarding ones.",
+        "file": "/writings/articles/the-value-of-difficult-problems.md"
+      },
+      {
+        "title": "Technology and Curiosity",
+        "date": "February 2026",
+        "excerpt": "Exploring the relationship between learning, creativity and technology.",
+        "file": "/writings/articles/technology-and-curiosity.md"
+      }
+    ]
+  }
+}

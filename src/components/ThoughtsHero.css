@@ -1,0 +1,31 @@
+.thoughts-hero {
+  padding: 8rem 0 4rem;
+
+  text-align: center;
+}
+
+.thoughts-hero h1 {
+  font-family: var(--font-heading);
+
+  font-size: 5rem;
+
+  margin-bottom: 1rem;
+}
+
+.thoughts-hero h2 {
+  color: var(--accent);
+
+  margin-bottom: 1.5rem;
+
+  font-weight: 400;
+}
+
+.thoughts-hero p {
+  max-width: 800px;
+
+  margin: 0 auto;
+
+  line-height: 1.8;
+
+  opacity: 0.8;
+}

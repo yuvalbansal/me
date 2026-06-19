@@ -1,0 +1,56 @@
+.focus-section {
+  padding: 8rem 0;
+}
+
+.focus-grid {
+  display: grid;
+
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+  gap: 1.5rem;
+}
+
+.focus-card {
+  background: rgba(17, 24, 39, 0.5);
+
+  border: 1px solid rgba(201, 162, 39, 0.15);
+
+  backdrop-filter: blur(10px);
+
+  border-radius: 18px;
+
+  padding: 2rem;
+
+  transition: all 0.3s ease;
+}
+
+.focus-card:hover {
+  transform: translateY(-6px);
+
+  border-color: rgba(201, 162, 39, 0.4);
+
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+}
+
+.focus-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.focus-category {
+  color: var(--accent);
+
+  font-size: 0.9rem;
+
+  letter-spacing: 1px;
+
+  text-transform: uppercase;
+
+  margin-bottom: 0.75rem;
+}
+
+.focus-value {
+  font-size: 1.15rem;
+
+  line-height: 1.5;
+}
