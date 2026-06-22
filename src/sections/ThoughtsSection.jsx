@@ -32,20 +32,37 @@ export default function ThoughtsSection() {
         </div>
 
         <div className="writing-grid">
-          {writings[activeTab].map((writing, index) => (
-            <FadeInSection key={writing.title} delay={index * 0.08}>
-              <div
-                className="writing-card"
-                onClick={() => setSelectedWriting(writing)}
-              >
-                <h3>{writing.title}</h3>
+          {writings[activeTab].length > 0 ? (
+            <div className="writing-grid">
+              {writings[activeTab].map((writing, index) => (
+                <FadeInSection key={writing.title} delay={index * 0.08}>
+                  <div
+                    className="writing-card"
+                    onClick={() => setSelectedWriting(writing)}
+                  >
+                    <h3>{writing.title}</h3>
 
-                <div className="writing-card-date">{writing.date}</div>
+                    <div className="writing-card-date">{writing.date}</div>
 
-                <p>{writing.excerpt}</p>
+                    <p>{writing.excerpt}</p>
+                  </div>
+                </FadeInSection>
+              ))}
+            </div>
+          ) : (
+            <FadeInSection>
+              <div className="empty-category">
+                <div className="empty-icon">✦</div>
+
+                <h3>Nothing here yet</h3>
+
+                <p>
+                  This {activeTab.slice(0, -1)} shelf is waiting for its first
+                  entry.
+                </p>
               </div>
             </FadeInSection>
-          ))}
+          )}
         </div>
 
         <WritingModal
