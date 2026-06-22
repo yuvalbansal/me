@@ -4,7 +4,11 @@ export default function ArtistCard({ artist }) {
   return (
     <div className="artist-card">
       <div className="artist-image-container">
-        <img src={artist.image} alt={artist.name} className="artist-image" />
+        <img
+          src={`${import.meta.env.BASE_URL}${artist.image.replace(/^\//, '')}`}
+          alt={artist.name}
+          className="artist-image"
+        />
       </div>
 
       <div className="artist-content">

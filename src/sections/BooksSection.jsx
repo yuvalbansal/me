@@ -21,7 +21,7 @@ export default function BooksSection() {
               <div className="book-card" onClick={() => setSelectedBook(book)}>
                 <div className="book-cover-container">
                   <img
-                    src={book.cover}
+                    src={`${import.meta.env.BASE_URL}${book.cover.replace(/^\//, '')}`}
                     alt={book.title}
                     className="book-cover"
                   />

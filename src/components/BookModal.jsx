@@ -12,7 +12,11 @@ export default function BookModal({ book, onClose }) {
 
         <div className="modal-layout">
           <div className="modal-cover-container">
-            <img src={book.cover} alt={book.title} className="modal-cover" />
+            <img
+              src={`${import.meta.env.BASE_URL}${book.cover.replace(/^\//, '')}`}
+              alt={book.title}
+              className="modal-cover"
+            />
           </div>
 
           <div>

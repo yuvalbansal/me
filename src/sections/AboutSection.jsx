@@ -20,7 +20,7 @@ export default function AboutSection() {
             <div className="about-image">
               <div className="profile-image-wrapper">
                 <img
-                  src={personal.profileImage}
+                  src={`${import.meta.env.BASE_URL}${personal.profileImage.replace(/^\//, '')}`}
                   alt={personal.name}
                   className="profile-image"
                 />

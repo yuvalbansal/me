@@ -37,7 +37,7 @@ export default function WritingModal({
 
     setProgress(0);
 
-    fetch(writing.file)
+    fetch(`${import.meta.env.BASE_URL}${writing.file.replace(/^\//, '')}`)
       .then((res) => res.text())
       .then(setContent);
   }, [writing]);
