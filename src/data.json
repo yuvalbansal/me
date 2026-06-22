@@ -8,21 +8,15 @@
 
   "about": {
     "title": "About Me",
-    "subtitle": "A curious engineer exploring ideas through technology, books, music and writing.",
+    "subtitle": "Curious about ideas, people and the world. This is where I collect what I learn along the way.",
 
     "bio": [
-      "I graduated from IIT Kanpur and enjoy building systems, solving difficult problems, and exploring ideas across disciplines.",
-      "My interests span machine learning, robotics, software engineering, philosophy, music and writing."
+      "I am a recent graduate of IIT Kanpur with a curiosity that extends far beyond any single field. While technology remains one of my primary interests, I am equally drawn to books, music, philosophy, and the ideas that shape how we understand ourselves and the world.",
+      "I enjoy building systems, solving difficult problems, and learning how complex things work. Over the years, that curiosity has led me through software, machine learning, robotics, writing, and music. I have played guitar for several years and continue to find joy in both playing and listening to music.",
+      "This website is my personal archive, a collection of books that influenced me, music that stayed with me, and thoughts worth preserving. It is a small record of what I have learned and what I am still trying to understand."
     ],
 
-    "tags": [
-      "Machine Learning",
-      "Robotics",
-      "Data Engineering",
-      "Music",
-      "Writing",
-      "Philosophy"
-    ]
+    "tags": ["Technology", "Music", "Writing", "Reading"]
   },
 
   "contact": {
@@ -32,19 +26,19 @@
 
     "intro": [
       "If something on this website resonates with you, feel free to reach out.",
-      "I'm particularly interested in conversations around technology, engineering, philosophy, writing and music."
+      "I'm particularly interested in conversations around technology, books, philosophy, writing and music."
     ]
   },
 
   "socials": {
-    "linkedin": "https://linkedin.com/in/YOUR_LINKEDIN",
-    "github": "https://github.com/YOUR_GITHUB",
-    "spotify": "https://spotify.com",
-    "email": "your@email.com"
+    "linkedin": "https://www.linkedin.com/in/yuval-bansal-01465b212/",
+    "github": "https://github.com/yuvalbansal",
+    "spotify": "https://open.spotify.com/user/pkt364ndxbood49osl71fcdo1",
+    "email": "yuvalbansal2005.yb@gmail.com"
   },
 
   "footer": {
-    "text": "Built with curiosity."
+    "text": "Dubito, ergo cogito, ergo sum."
   },
 
   "navbar": {
@@ -72,14 +66,14 @@
   "hero": {
     "name": "Yuval Bansal",
     "title": "Engineer. Reader. Musician. Writer.",
-    "description": "Exploring ideas through technology, music, books and writing.",
+    "description": "Knowing yourself is the beginning of all wisdom.",
     "scrollText": "Scroll to Explore",
 
     "statusItems": [
       "Currently reading: Sophie's World",
-      "Currently listening: Jeff Beck",
-      "Currently building: Personal Website",
-      "Currently thinking about: Meaning and Fulfilment"
+      "Currently listening: Bob Dylan",
+      "Currently learning: Personal Finance",
+      "Currently working: Data Analytics"
     ]
   },
 
@@ -90,33 +84,23 @@
     "items": [
       {
         "category": "Reading",
-        "value": "Sophie's World",
+        "value": "Philosophy",
         "icon": "📚"
       },
       {
         "category": "Listening",
-        "value": "Jeff Beck",
+        "value": "Folk Rock",
         "icon": "🎸"
       },
       {
-        "category": "Building",
-        "value": "Personal Website",
-        "icon": "💻"
-      },
-      {
         "category": "Learning",
-        "value": "Machine Learning & AI",
+        "value": "Personal Finance",
         "icon": "🧠"
       },
       {
         "category": "Writing",
-        "value": "Essays & Journals",
+        "value": "Poems",
         "icon": "✍️"
-      },
-      {
-        "category": "Thinking About",
-        "value": "Meaning & Fulfilment",
-        "icon": "🌌"
       }
     ]
   },
@@ -128,29 +112,59 @@
 
   "timeline": [
     {
-      "year": "2022",
-      "title": "Started at IIT Kanpur",
-      "description": "Began my journey in Mechanical Engineering while exploring programming, robotics and technology."
-    },
-    {
-      "year": "2023",
-      "title": "Competitive Programming",
-      "description": "Developed strong problem-solving skills and became active in competitive programming."
-    },
-    {
-      "year": "2024",
-      "title": "Inter IIT Tech Meet",
-      "description": "Worked on challenging engineering projects and earned medals representing IIT Kanpur."
-    },
-    {
-      "year": "2025",
-      "title": "Data Engineering Internship",
-      "description": "Built ETL systems, machine learning pipelines and production-ready solutions."
-    },
-    {
       "year": "2026",
-      "title": "Graduation",
-      "description": "Completed my degree while continuing to explore software, AI, writing and music."
+      "title": "Graduation from IIT Kanpur",
+      "description": "Completed my degree while continuing to explore software, AI, books and music."
+    },
+    {
+      "year": "January - March 2026",
+      "title": "Software Development Internship, Assisting Doctors In Indore",
+      "description": "Developed software solutions to ease clinical workflows at healthcare facilities in Indore."
+    },
+    {
+      "year": "December 2025",
+      "title": "Inter IIT Tech Meet 14.0, IIT Patna",
+      "description": "Worked on building a fully autonomous warehouse robot, winning a bronze medal while representing IIT Kanpur."
+    },
+    {
+      "year": "February 2025 - March 2026",
+      "title": "Institute Secretary, Science And Technology Council, IIT Kanpur",
+      "description": "Elected to lead and manage student activities across all technical domains at IIT Kanpur."
+    },
+    {
+      "year": "May - July 2025",
+      "title": "Data Engineering Internship, Semusi Technologies",
+      "description": "Built ETL pipelines, machine learning systems, and production-ready data solutions."
+    },
+    {
+      "year": "December 2024",
+      "title": "Inter IIT Tech Meet 13.0, IIT Bombay",
+      "description": "Led the simulation of an HVAC system and earned a bronze medal while representing IIT Kanpur."
+    },
+    {
+      "year": "March 2024 - March 2025",
+      "title": "Coordinator, Robotics Club, IIT Kanpur",
+      "description": "Led projects and teams in competitions including WRC, GujCOST Robofest 4.0, Techkriti, and Techfest."
+    },
+    {
+      "year": "April - September 2024",
+      "title": "Simulations Intern, Energy Internet Corporation",
+      "description": "Worked on simulation-driven engineering solutions and analytical workflows."
+    },
+    {
+      "year": "January - October 2024",
+      "title": "Technical Organizer, WCEAM 2024",
+      "description": "Managed conference operations, developed the website, and automated organizational workflows."
+    },
+    {
+      "year": "December 2023",
+      "title": "Inter IIT Tech Meet 12.0, IIT Madras",
+      "description": "Contributed to the mechanical design and modelling of an industrial agitator while representing IIT Kanpur."
+    },
+    {
+      "year": "October 2022",
+      "title": "Started at IIT Kanpur",
+      "description": "Began my journey in Mechanical Engineering while exploring programming, robotics, and technology."
     }
   ],
 
@@ -160,32 +174,32 @@
       "author": "Socrates"
     },
     {
-      "quote": "He who has a why to live can bear almost any how.",
+      "quote": "Amor fati: let that be my love from henceforth!",
       "author": "Nietzsche"
     },
     {
-      "quote": "We are what we repeatedly do.",
-      "author": "Aristotle"
+      "quote": "Do unto others as you would have others do unto you.",
+      "author": "Jesus Christ"
     },
     {
-      "quote": "Man is condemned to be free.",
-      "author": "Jean-Paul Sartre"
+      "quote": "It is the hour to be drunken! To escape being the martyred slaves of time, be ceaselessly drunk. On wine, on poetry, or on virtue, as you wish.",
+      "author": "Charles Baudelaire"
     },
     {
-      "quote": "The unexamined life is not worth living.",
-      "author": "Socrates"
+      "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "author": "Mahatma Gandhi"
     },
     {
-      "quote": "He who has a why to live can bear almost any how.",
-      "author": "Nietzsche"
+      "quote": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+      "author": "Carl Jung"
     },
     {
-      "quote": "We are what we repeatedly do.",
-      "author": "Aristotle"
+      "quote": "The best is the enemy of the good.",
+      "author": "Voltaire"
     },
     {
-      "quote": "Man is condemned to be free.",
-      "author": "Jean-Paul Sartre"
+      "quote": "There is nothing either good or bad, but thinking makes it so.",
+      "author": "William Shakespeare"
     }
   ],
 
@@ -194,7 +208,7 @@
   "musicPage": {
     "title": "Soundtrack",
     "subtitle": "Music that has accompanied different chapters of my life.",
-    "description": "From classic rock and blues to film scores and soul, these are the artists whose work continues to inspire me.",
+    "description": "From classic rock and blues to folk and pop, these are the artists whose work continues to inspire me.",
 
     "favouriteArtist": {
       "name": "The Beatles",
@@ -218,11 +232,46 @@
       "note": "Immersive albums that blend music, philosophy, and storytelling into unforgettable journeys."
     },
     {
-      "name": "Olivia Dean",
-      "image": "/artists/olivia-dean.jpg",
-      "spotifyEmbed": "https://open.spotify.com/embed/artist/00x1fYSGhdqScXBRpSj3DW",
-      "genres": ["Soul", "R&B", "Pop"],
-      "note": "Warm vocals, intimate songwriting, and a refreshing sense of sincerity and optimism."
+      "name": "Bob Dylan",
+      "image": "/artists/bob-dylan.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/74ASZWbe4lXaubB36ztrGX",
+      "genres": ["Folk Rock", "Singer-Songwriter"],
+      "note": "Poetic lyricism and storytelling that blur the line between music and literature."
+    },
+    {
+      "name": "John Mayer",
+      "image": "/artists/john-mayer.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/0hEurMDQu99nJRq8pTxO14",
+      "genres": ["Blues Rock", "Pop Rock", "Singer-Songwriter"],
+      "note": "A rare blend of lyrical introspection and expressive guitar playing. His music balances technical brilliance with emotional honesty."
+    },
+    {
+      "name": "A. R. Rahman",
+      "image": "/artists/ar-rahman.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/1mYsTxnqsietFxj1OgoGbG",
+      "genres": ["Indian Film Music", "World Music", "Classical Fusion"],
+      "note": "A composer whose music blends tradition and innovation with remarkable ease. His soundtracks are rich in emotion, atmosphere, and unforgettable melodies."
+    },
+    {
+      "name": "Led Zeppelin",
+      "image": "/artists/led-zeppelin.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/36QJpDe2go2KgaRleHCDTp",
+      "genres": ["Hard Rock", "Blues Rock", "Classic Rock"],
+      "note": "Powerful riffs, dynamic songwriting, and legendary musicianship. Their music laid the foundation for much of modern rock."
+    },
+    {
+      "name": "Nirvana",
+      "image": "/artists/nirvana.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/6olE6TJLqED3rqDCT0FyPh",
+      "genres": ["Grunge", "Alternative Rock"],
+      "note": "Raw, honest, and unapologetically human. Nirvana captured a generation's frustrations while creating some of the most iconic rock music ever recorded."
+    },
+    {
+      "name": "Amit Trivedi",
+      "image": "/artists/amit-trivedi.jpg",
+      "spotifyEmbed": "https://open.spotify.com/embed/artist/7HCqGPJcQTyGJ2yqntbuyr",
+      "genres": ["Indian Film Music", "Indie", "Fusion"],
+      "note": "Known for constantly reinventing his sound, Amit Trivedi brings together folk, rock, classical, and contemporary influences with remarkable creativity."
     },
     {
       "name": "Radiohead",
@@ -230,20 +279,6 @@
       "spotifyEmbed": "https://open.spotify.com/embed/artist/4Z8W4fKeB5YxbusRsdQVPb",
       "genres": ["Alternative Rock", "Art Rock", "Experimental Rock"],
       "note": "Restless experimentation and deeply introspective songwriting that rewards repeated listening."
-    },
-    {
-      "name": "Taylor Swift",
-      "image": "/artists/taylor-swift.jpg",
-      "spotifyEmbed": "https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02",
-      "genres": ["Pop", "Country Pop", "Singer-Songwriter"],
-      "note": "A remarkable ability to transform personal experiences into songs that resonate with millions."
-    },
-    {
-      "name": "Bob Dylan",
-      "image": "/artists/bob-dylan.jpg",
-      "spotifyEmbed": "https://open.spotify.com/embed/artist/74ASZWbe4lXaubB36ztrGX",
-      "genres": ["Folk Rock", "Singer-Songwriter"],
-      "note": "Poetic lyricism and storytelling that blur the line between music and literature."
     }
   ],
 
@@ -258,12 +293,122 @@
 
   "books": [
     {
-      "title": "Sapiens",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "cover": "/books/rich-dad-poor-dad.jpg",
+      "rating": 5,
+      "category": "Finance",
+      "dateRead": "Sep 2018 & Jun 2025",
+      "pages": 336,
+      "note": "Introduces fundamental ideas about money, investing, and financial independence."
+    },
+    {
+      "title": "How To Win Friends And Influence People",
+      "author": "Dale Carnegie",
+      "cover": "/books/how-to-win-friends-and-influence-people.jpg",
+      "rating": 5,
+      "category": "Self-Help",
+      "dateRead": "Nov 2018 & Jul 2025",
+      "pages": 288,
+      "note": "A timeless guide to communication, relationships, and understanding people."
+    },
+    {
+      "title": "The Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "cover": "/books/the-monk-who-sold-his-ferrari.jpg",
+      "rating": 3,
+      "category": "Self-Help",
+      "dateRead": "Jan 2021",
+      "pages": 198,
+      "note": "A story-driven exploration of personal growth, balance, and fulfillment."
+    },
+    {
+      "title": "The Story of My Experiments with Truth",
+      "author": "Mahatma Gandhi",
+      "cover": "/books/gandhi-autobiography.jpg",
+      "rating": 5,
+      "category": "Autobiography",
+      "dateRead": "Feb 2021",
+      "pages": 560,
+      "note": "A candid account of Gandhi's life, values, and pursuit of truth."
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "cover": "/books/mans-search-for-meaning.jpg",
+      "rating": 5,
+      "category": "Psychology",
+      "dateRead": "Mar 2021",
+      "pages": 184,
+      "note": "A profound reflection on suffering, resilience, and the search for purpose."
+    },
+    {
+      "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+      "author": "Francesc Miralles & Hector Garcia",
+      "cover": "/books/ikigai.jpg",
+      "rating": 4,
+      "category": "Self-Help",
+      "dateRead": "Jun 2021",
+      "pages": 208,
+      "note": "An introduction to the Japanese concept of finding purpose and meaning in life."
+    },
+    {
+      "title": "Thirteen Reasons Why",
+      "author": "Jay Asher",
+      "cover": "/books/thirteen-reasons-why.jpg",
+      "rating": 5,
+      "category": "Fiction",
+      "dateRead": "Jul 2021",
+      "pages": 336,
+      "note": "A young adult novel exploring relationships, choices, and consequences."
+    },
+    {
+      "title": "The INFJ Personality Guide",
+      "author": "Bo Miller",
+      "cover": "/books/the-infj-personality-guide.jpg",
+      "rating": 3,
+      "category": "Psychology",
+      "dateRead": "Aug 2021",
+      "pages": 140,
+      "note": "An overview of the INFJ personality type and its characteristics."
+    },
+    {
+      "title": "Bhagavad Gita Bhashya",
+      "author": "Gopalanand Swami",
+      "cover": "/books/bhagavad-gita-bhashya.jpg",
+      "rating": 5,
+      "category": "Spirituality",
+      "dateRead": "Oct 2021",
+      "pages": 600,
+      "note": "A commentary on the Bhagavad Gita offering spiritual and philosophical insights."
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover": "/books/atomic-habits.jpg",
+      "rating": 5,
+      "category": "Self-Help",
+      "dateRead": "Nov 2021",
+      "pages": 320,
+      "note": "A practical framework for building good habits and breaking bad ones."
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "cover": "/books/the-subtle-art-of-not-giving-a-fuck.jpg",
+      "rating": 4,
+      "category": "Self-Help",
+      "dateRead": "Nov 2021",
+      "pages": 224,
+      "note": "A counterintuitive approach to prioritizing what truly matters."
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
       "cover": "/books/sapiens.jpg",
       "rating": 5,
       "category": "History",
-      "dateRead": "Month Year",
+      "dateRead": "Jan 2024",
       "pages": 443,
       "note": "A sweeping exploration of human history, from hunter-gatherers to modern civilizations."
     },
@@ -273,49 +418,79 @@
       "cover": "/books/why-i-am-an-atheist.jpg",
       "rating": 5,
       "category": "Philosophy",
-      "dateRead": "Month Year",
-      "pages": 38,
-      "note": "A thoughtful and courageous defense of rational inquiry, skepticism, and intellectual independence."
+      "dateRead": "Mar 2025",
+      "pages": 80,
+      "note": "A thoughtful essay examining reason, belief, and intellectual independence."
     },
     {
-      "title": "The Story of My Experiments with Truth",
-      "author": "Mahatma Gandhi",
-      "cover": "/books/gandhi-autobiography.jpg",
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "cover": "/books/metamorphosis.jpg",
       "rating": 4,
-      "category": "Autobiography",
-      "dateRead": "Month Year",
-      "pages": 560,
-      "note": "An honest account of Gandhi's lifelong pursuit of truth, self-discipline, and moral growth."
+      "category": "Fiction",
+      "dateRead": "Apr 2025",
+      "pages": 128,
+      "note": "A surreal and unsettling exploration of alienation and identity."
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "cover": "/books/the-psychology-of-money.jpg",
+      "rating": 5,
+      "category": "Finance",
+      "dateRead": "Jun 2025",
+      "pages": 256,
+      "note": "Explores how human behavior shapes financial decisions more than technical knowledge."
     },
     {
       "title": "The Stranger",
       "author": "Albert Camus",
       "cover": "/books/the-stranger.jpg",
       "rating": 5,
-      "category": "Literature",
-      "dateRead": "Month Year",
+      "category": "Philosophy",
+      "dateRead": "Aug 2025",
       "pages": 123,
-      "note": "A powerful existential novel exploring absurdity, meaning, and the human condition."
+      "note": "A landmark existential novel exploring absurdity, freedom, and meaning."
     },
     {
-      "title": "Zero to One",
-      "author": "Peter Thiel",
+      "title": "White Nights",
+      "author": "Fyodor Dostoevsky",
+      "cover": "/books/white-nights.jpg",
+      "rating": 5,
+      "category": "Fiction",
+      "dateRead": "Jan 2026",
+      "pages": 96,
+      "note": "A tender and melancholic story of loneliness, hope, and fleeting connection."
+    },
+    {
+      "title": "Active Listening",
+      "author": "Carl Rogers & Richard Farson",
+      "cover": "/books/active-listening.jpg",
+      "rating": 3,
+      "category": "Psychology",
+      "dateRead": "Feb 2026",
+      "pages": 64,
+      "note": "A concise exploration of listening as a powerful tool for understanding and communication."
+    },
+    {
+      "title": "Zero To One",
+      "author": "Peter Thiel & Blake Masters",
       "cover": "/books/zero-to-one.jpg",
       "rating": 4,
       "category": "Business",
-      "dateRead": "Month Year",
+      "dateRead": "Feb 2026",
       "pages": 224,
-      "note": "A provocative perspective on innovation, startups, and building things that have never existed before."
+      "note": "An argument for creating unique value by building things that do not yet exist."
     },
     {
-      "title": "Man's Search for Meaning",
-      "author": "Viktor E. Frankl",
-      "cover": "/books/mans-search-for-meaning.jpg",
-      "rating": 5,
-      "category": "Psychology",
-      "dateRead": "Month Year",
-      "pages": 184,
-      "note": "A profound reflection on suffering, resilience, and humanity's search for purpose."
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "cover": "/books/animal-farm.jpg",
+      "rating": 4,
+      "category": "Political Satire",
+      "dateRead": "May 2026",
+      "pages": 112,
+      "note": "A sharp and timeless satire on power, corruption, and the ways ideals can be distorted by those who wield authority."
     }
   ],
 
@@ -323,72 +498,15 @@
 
   "thoughtsPage": {
     "title": "Thoughts",
-    "subtitle": "Poems, journals and articles.",
+    "subtitle": "Poems, journals and ideas.",
     "description": "Some writings are records of moments. Some are attempts to understand the world. Others are simply questions."
   },
 
   "writings": {
-    "poems": [
-      {
-        "title": "The Weight of Rain",
-        "date": "June 2026",
-        "excerpt": "A poem about memory and time.",
-        "file": "/writings/poems/the-weight-of-rain.md"
-      },
-      {
-        "title": "Midnight Lanterns",
-        "date": "May 2026",
-        "excerpt": "Fragments of light scattered across a silent night.",
-        "file": "/writings/poems/midnight-lanterns.md"
-      },
-      {
-        "title": "Sea of Dust",
-        "date": "April 2026",
-        "excerpt": "A meditation on distance, silence and passing seasons.",
-        "file": "/writings/poems/sea-of-dust.md"
-      }
-    ],
+    "poems": [],
 
-    "journals": [
-      {
-        "title": "Graduation Day",
-        "date": "June 2026",
-        "excerpt": "Reflections on leaving IIT Kanpur.",
-        "file": "/writings/journals/graduation-day.md"
-      },
-      {
-        "title": "A Walk Through Campus",
-        "date": "March 2026",
-        "excerpt": "Thoughts from an ordinary evening that felt unexpectedly significant.",
-        "file": "/writings/journals/a-walk-through-campus.md"
-      },
-      {
-        "title": "Summer in Gurgaon",
-        "date": "July 2025",
-        "excerpt": "Notes from a season of work, uncertainty and growth.",
-        "file": "/writings/journals/summer-in-gurgaon.md"
-      }
-    ],
+    "journals": [],
 
-    "articles": [
-      {
-        "title": "Meaning and Fulfilment",
-        "date": "June 2026",
-        "excerpt": "Thoughts on purpose, commitment and happiness.",
-        "file": "/writings/articles/meaning-and-fulfilment.md"
-      },
-      {
-        "title": "The Value of Difficult Problems",
-        "date": "May 2026",
-        "excerpt": "Why challenging pursuits often become the most rewarding ones.",
-        "file": "/writings/articles/the-value-of-difficult-problems.md"
-      },
-      {
-        "title": "Technology and Curiosity",
-        "date": "February 2026",
-        "excerpt": "Exploring the relationship between learning, creativity and technology.",
-        "file": "/writings/articles/technology-and-curiosity.md"
-      }
-    ]
+    "ideas": []
   }
 }

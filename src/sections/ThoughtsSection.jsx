@@ -10,7 +10,7 @@ import './ThoughtsSection.css';
 export default function ThoughtsSection() {
   const { writings } = data;
 
-  const tabs = ['poems', 'journals', 'articles'];
+  const tabs = ['poems', 'journals', 'ideas'];
 
   const [activeTab, setActiveTab] = useState('poems');
 
