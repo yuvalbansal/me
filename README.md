@@ -1,16 +1,45 @@
-# React + Vite
+# Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my personal website, where I share my journey, interests, and thoughts.
 
-Currently, two official plugins are available:
+**Live Website:** https://yuvalbansal.github.io/me/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **About** – A brief introduction, timeline, and current interests.
+- **Soundtrack** – Artists that have influenced me.
+- **Library** – Books I've read.
+- **Thoughts** – A collection of my poems, journals, and articles.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- React Router
+- Framer Motion
+- React Markdown
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Running Locally
+
+```bash
+git clone https://github.com/yuvalbansal/me.git
+cd me
+npm install
+npm run dev
+```
+
+The development server will start at:
+
+```
+http://localhost:5173
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## License
+
+This project is intended for personal use and serves as my digital archive of books, music, ideas, and writings.

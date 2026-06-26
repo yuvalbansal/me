@@ -505,7 +505,14 @@
   "writings": {
     "poems": [],
 
-    "journals": [],
+    "journals": [
+      {
+        "title": "Getting Back",
+        "date": "26 June 2026",
+        "excerpt": "A journal entry reflecting on the journey of self-discovery and expression.",
+        "file": "/writings/journals/getting-back.md"
+      }
+    ],
 
     "ideas": []
   }
