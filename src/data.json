@@ -70,10 +70,10 @@
     "scrollText": "Scroll to Explore",
 
     "statusItems": [
-      "Currently reading: Sophie's World",
       "Currently listening: Bob Dylan",
       "Currently learning: Personal Finance",
-      "Currently working: Data Analytics"
+      "Currently working: Data Analytics",
+      "Currently reading: -"
     ]
   },
 
@@ -288,189 +288,29 @@
     "title": "Library",
     "subtitle": "Books that shaped how I think.",
     "description": "A collection of books that influenced my ideas, challenged my assumptions and expanded my perspective.",
-    "currentlyReading": "Sophie's World"
+    "currentlyReading": ""
   },
 
   "books": [
     {
-      "title": "Rich Dad Poor Dad",
-      "author": "Robert Kiyosaki",
-      "cover": "/books/rich-dad-poor-dad.jpg",
-      "rating": 5,
-      "category": "Finance",
-      "dateRead": "Sep 2018 & Jun 2025",
-      "pages": 336,
-      "note": "Introduces fundamental ideas about money, investing, and financial independence."
-    },
-    {
-      "title": "How To Win Friends And Influence People",
-      "author": "Dale Carnegie",
-      "cover": "/books/how-to-win-friends-and-influence-people.jpg",
-      "rating": 5,
-      "category": "Self-Help",
-      "dateRead": "Nov 2018 & Jul 2025",
-      "pages": 288,
-      "note": "A timeless guide to communication, relationships, and understanding people."
-    },
-    {
-      "title": "The Monk Who Sold His Ferrari",
-      "author": "Robin Sharma",
-      "cover": "/books/the-monk-who-sold-his-ferrari.jpg",
-      "rating": 3,
-      "category": "Self-Help",
-      "dateRead": "Jan 2021",
-      "pages": 198,
-      "note": "A story-driven exploration of personal growth, balance, and fulfillment."
-    },
-    {
-      "title": "The Story of My Experiments with Truth",
-      "author": "Mahatma Gandhi",
-      "cover": "/books/gandhi-autobiography.jpg",
-      "rating": 5,
-      "category": "Autobiography",
-      "dateRead": "Feb 2021",
-      "pages": 560,
-      "note": "A candid account of Gandhi's life, values, and pursuit of truth."
-    },
-    {
-      "title": "Man's Search for Meaning",
-      "author": "Viktor E. Frankl",
-      "cover": "/books/mans-search-for-meaning.jpg",
-      "rating": 5,
-      "category": "Psychology",
-      "dateRead": "Mar 2021",
-      "pages": 184,
-      "note": "A profound reflection on suffering, resilience, and the search for purpose."
-    },
-    {
-      "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
-      "author": "Francesc Miralles & Hector Garcia",
-      "cover": "/books/ikigai.jpg",
-      "rating": 4,
-      "category": "Self-Help",
-      "dateRead": "Jun 2021",
-      "pages": 208,
-      "note": "An introduction to the Japanese concept of finding purpose and meaning in life."
-    },
-    {
-      "title": "Thirteen Reasons Why",
-      "author": "Jay Asher",
-      "cover": "/books/thirteen-reasons-why.jpg",
-      "rating": 5,
-      "category": "Fiction",
-      "dateRead": "Jul 2021",
-      "pages": 336,
-      "note": "A young adult novel exploring relationships, choices, and consequences."
-    },
-    {
-      "title": "The INFJ Personality Guide",
-      "author": "Bo Miller",
-      "cover": "/books/the-infj-personality-guide.jpg",
-      "rating": 3,
-      "category": "Psychology",
-      "dateRead": "Aug 2021",
-      "pages": 140,
-      "note": "An overview of the INFJ personality type and its characteristics."
-    },
-    {
-      "title": "Bhagavad Gita Bhashya",
-      "author": "Gopalanand Swami",
-      "cover": "/books/bhagavad-gita-bhashya.jpg",
-      "rating": 5,
-      "category": "Spirituality",
-      "dateRead": "Oct 2021",
-      "pages": 600,
-      "note": "A commentary on the Bhagavad Gita offering spiritual and philosophical insights."
-    },
-    {
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "cover": "/books/atomic-habits.jpg",
-      "rating": 5,
-      "category": "Self-Help",
-      "dateRead": "Nov 2021",
-      "pages": 320,
-      "note": "A practical framework for building good habits and breaking bad ones."
-    },
-    {
-      "title": "The Subtle Art of Not Giving a F*ck",
-      "author": "Mark Manson",
-      "cover": "/books/the-subtle-art-of-not-giving-a-fuck.jpg",
-      "rating": 4,
-      "category": "Self-Help",
-      "dateRead": "Nov 2021",
-      "pages": 224,
-      "note": "A counterintuitive approach to prioritizing what truly matters."
-    },
-    {
-      "title": "Sapiens: A Brief History of Humankind",
-      "author": "Yuval Noah Harari",
-      "cover": "/books/sapiens.jpg",
-      "rating": 5,
-      "category": "History",
-      "dateRead": "Jan 2024",
-      "pages": 443,
-      "note": "A sweeping exploration of human history, from hunter-gatherers to modern civilizations."
-    },
-    {
-      "title": "Why I Am an Atheist",
-      "author": "Bhagat Singh",
-      "cover": "/books/why-i-am-an-atheist.jpg",
+      "title": "Sophie's World",
+      "author": "Jostein Gaarder",
+      "cover": "/books/sophies-world.jpg",
       "rating": 5,
       "category": "Philosophy",
-      "dateRead": "Mar 2025",
-      "pages": 80,
-      "note": "A thoughtful essay examining reason, belief, and intellectual independence."
+      "dateRead": "Jul 2026",
+      "pages": 518,
+      "note": "A fascinating journey through the history of philosophy, blending storytelling with profound questions about existence, consciousness, and the world around us."
     },
     {
-      "title": "Metamorphosis",
-      "author": "Franz Kafka",
-      "cover": "/books/metamorphosis.jpg",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "cover": "/books/animal-farm.jpg",
       "rating": 4,
-      "category": "Fiction",
-      "dateRead": "Apr 2025",
-      "pages": 128,
-      "note": "A surreal and unsettling exploration of alienation and identity."
-    },
-    {
-      "title": "The Psychology of Money",
-      "author": "Morgan Housel",
-      "cover": "/books/the-psychology-of-money.jpg",
-      "rating": 5,
-      "category": "Finance",
-      "dateRead": "Jun 2025",
-      "pages": 256,
-      "note": "Explores how human behavior shapes financial decisions more than technical knowledge."
-    },
-    {
-      "title": "The Stranger",
-      "author": "Albert Camus",
-      "cover": "/books/the-stranger.jpg",
-      "rating": 5,
-      "category": "Philosophy",
-      "dateRead": "Aug 2025",
-      "pages": 123,
-      "note": "A landmark existential novel exploring absurdity, freedom, and meaning."
-    },
-    {
-      "title": "White Nights",
-      "author": "Fyodor Dostoevsky",
-      "cover": "/books/white-nights.jpg",
-      "rating": 5,
-      "category": "Fiction",
-      "dateRead": "Jan 2026",
-      "pages": 96,
-      "note": "A tender and melancholic story of loneliness, hope, and fleeting connection."
-    },
-    {
-      "title": "Active Listening",
-      "author": "Carl Rogers & Richard Farson",
-      "cover": "/books/active-listening.jpg",
-      "rating": 3,
-      "category": "Psychology",
-      "dateRead": "Feb 2026",
-      "pages": 64,
-      "note": "A concise exploration of listening as a powerful tool for understanding and communication."
+      "category": "Political Satire",
+      "dateRead": "May 2026",
+      "pages": 112,
+      "note": "A sharp and timeless satire on power, corruption, and the ways ideals can be distorted by those who wield authority."
     },
     {
       "title": "Zero To One",
@@ -483,14 +323,184 @@
       "note": "An argument for creating unique value by building things that do not yet exist."
     },
     {
-      "title": "Animal Farm",
-      "author": "George Orwell",
-      "cover": "/books/animal-farm.jpg",
+      "title": "Active Listening",
+      "author": "Carl Rogers & Richard Farson",
+      "cover": "/books/active-listening.jpg",
+      "rating": 3,
+      "category": "Psychology",
+      "dateRead": "Feb 2026",
+      "pages": 64,
+      "note": "A concise exploration of listening as a powerful tool for understanding and communication."
+    },
+    {
+      "title": "White Nights",
+      "author": "Fyodor Dostoevsky",
+      "cover": "/books/white-nights.jpg",
+      "rating": 5,
+      "category": "Fiction",
+      "dateRead": "Jan 2026",
+      "pages": 96,
+      "note": "A tender and melancholic story of loneliness, hope, and fleeting connection."
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "cover": "/books/the-stranger.jpg",
+      "rating": 5,
+      "category": "Philosophy",
+      "dateRead": "Aug 2025",
+      "pages": 123,
+      "note": "A landmark existential novel exploring absurdity, freedom, and meaning."
+    },
+    {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "cover": "/books/the-psychology-of-money.jpg",
+      "rating": 5,
+      "category": "Finance",
+      "dateRead": "Jun 2025",
+      "pages": 256,
+      "note": "Explores how human behavior shapes financial decisions more than technical knowledge."
+    },
+    {
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "cover": "/books/metamorphosis.jpg",
       "rating": 4,
-      "category": "Political Satire",
-      "dateRead": "May 2026",
-      "pages": 112,
-      "note": "A sharp and timeless satire on power, corruption, and the ways ideals can be distorted by those who wield authority."
+      "category": "Fiction",
+      "dateRead": "Apr 2025",
+      "pages": 128,
+      "note": "A surreal and unsettling exploration of alienation and identity."
+    },
+    {
+      "title": "Why I Am an Atheist",
+      "author": "Bhagat Singh",
+      "cover": "/books/why-i-am-an-atheist.jpg",
+      "rating": 5,
+      "category": "Philosophy",
+      "dateRead": "Mar 2025",
+      "pages": 80,
+      "note": "A thoughtful essay examining reason, belief, and intellectual independence."
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "cover": "/books/sapiens.jpg",
+      "rating": 5,
+      "category": "History",
+      "dateRead": "Jan 2024",
+      "pages": 443,
+      "note": "A sweeping exploration of human history, from hunter-gatherers to modern civilizations."
+    },
+    {
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "cover": "/books/the-subtle-art-of-not-giving-a-fuck.jpg",
+      "rating": 4,
+      "category": "Self-Help",
+      "dateRead": "Nov 2021",
+      "pages": 224,
+      "note": "A counterintuitive approach to prioritizing what truly matters."
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover": "/books/atomic-habits.jpg",
+      "rating": 5,
+      "category": "Self-Help",
+      "dateRead": "Nov 2021",
+      "pages": 320,
+      "note": "A practical framework for building good habits and breaking bad ones."
+    },
+    {
+      "title": "Bhagavad Gita Bhashya",
+      "author": "Gopalanand Swami",
+      "cover": "/books/bhagavad-gita-bhashya.jpg",
+      "rating": 5,
+      "category": "Spirituality",
+      "dateRead": "Oct 2021",
+      "pages": 600,
+      "note": "A commentary on the Bhagavad Gita offering spiritual and philosophical insights."
+    },
+    {
+      "title": "The INFJ Personality Guide",
+      "author": "Bo Miller",
+      "cover": "/books/the-infj-personality-guide.jpg",
+      "rating": 3,
+      "category": "Psychology",
+      "dateRead": "Aug 2021",
+      "pages": 140,
+      "note": "An overview of the INFJ personality type and its characteristics."
+    },
+    {
+      "title": "Thirteen Reasons Why",
+      "author": "Jay Asher",
+      "cover": "/books/thirteen-reasons-why.jpg",
+      "rating": 5,
+      "category": "Fiction",
+      "dateRead": "Jul 2021",
+      "pages": 336,
+      "note": "A young adult novel exploring relationships, choices, and consequences."
+    },
+    {
+      "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+      "author": "Francesc Miralles & Hector Garcia",
+      "cover": "/books/ikigai.jpg",
+      "rating": 4,
+      "category": "Self-Help",
+      "dateRead": "Jun 2021",
+      "pages": 208,
+      "note": "An introduction to the Japanese concept of finding purpose and meaning in life."
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "cover": "/books/mans-search-for-meaning.jpg",
+      "rating": 5,
+      "category": "Psychology",
+      "dateRead": "Mar 2021",
+      "pages": 184,
+      "note": "A profound reflection on suffering, resilience, and the search for purpose."
+    },
+    {
+      "title": "The Story of My Experiments with Truth",
+      "author": "Mahatma Gandhi",
+      "cover": "/books/gandhi-autobiography.jpg",
+      "rating": 5,
+      "category": "Autobiography",
+      "dateRead": "Feb 2021",
+      "pages": 560,
+      "note": "A candid account of Gandhi's life, values, and pursuit of truth."
+    },
+    {
+      "title": "The Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "cover": "/books/the-monk-who-sold-his-ferrari.jpg",
+      "rating": 3,
+      "category": "Self-Help",
+      "dateRead": "Jan 2021",
+      "pages": 198,
+      "note": "A story-driven exploration of personal growth, balance, and fulfillment."
+    },
+    {
+      "title": "How To Win Friends And Influence People",
+      "author": "Dale Carnegie",
+      "cover": "/books/how-to-win-friends-and-influence-people.jpg",
+      "rating": 5,
+      "category": "Self-Help",
+      "dateRead": "Nov 2018 & Jul 2025",
+      "pages": 288,
+      "note": "A timeless guide to communication, relationships, and understanding people."
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "cover": "/books/rich-dad-poor-dad.jpg",
+      "rating": 5,
+      "category": "Finance",
+      "dateRead": "Sep 2018 & Jun 2025",
+      "pages": 336,
+      "note": "Introduces fundamental ideas about money, investing, and financial independence."
     }
   ],
 
@@ -508,12 +518,21 @@
     "journals": [
       {
         "title": "Getting Back",
+        "slug": "getting-back",
         "date": "26 June 2026",
         "excerpt": "A journal entry reflecting on the journey of self-discovery and expression.",
-        "file": "/writings/journals/getting-back.md"
+        "file": "writings/journals/getting-back.md"
       }
     ],
 
-    "ideas": []
+    "ideas": [
+      {
+        "title": "Search For Meaning",
+        "slug": "search-for-meaning",
+        "date": "29 July 2026",
+        "excerpt": "A conclusive summary of the quest for understanding, marking the end of a long search for meaning and insight.",
+        "file": "writings/articles/search-for-meaning.md"
+      }
+    ]
   }
 }

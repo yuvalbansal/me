@@ -6,7 +6,7 @@ First of all, I would like to begin with my history of writing. I used to write 
 
 I am not 14 anymore, I am 21. I am not in high school, I have just completed my undergrad and I am about to start working professionally in about six weeks. I want to clarify that this is not a sudden urge to write. Whenever I cross any milestone in my life, material or philosophical, I get an itch to write. Instead of giving in to it, I turned to other people.
 
-## Transition period of my life
+## Transition period
 
 As I retrospect today, I realise that I have been too occupied in all of the time I spent in college. I do not regret it at all. If anything, I am grateful for it, because those years allowed me to grow exponentially.
 
