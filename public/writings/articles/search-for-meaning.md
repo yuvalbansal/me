@@ -131,7 +131,7 @@ Reading about such personalities leaves me dumbfounded, as I attempt to relate t
 
 ## Conclusion
 
-Although reading has helped me shape my own views, only some ideas have left a profound impacted on me. I may not agree with all of them, but I have attempted to incorporate a subset of those ideas in this article.
+Although reading has helped me shape my own views, only some ideas have left a profound impact on me. I may not agree with all of them, but I have attempted to incorporate a subset of those ideas in this article.
 
 Ideas that date thousands of years back in time bring two characteristics with them. One is that the ideas must have a very solid reasoning or must be thought-provoking enough to have stood the test of time. Second is that they are often wrong. After reading about various philosophers' opinions about reality, the universe, God and us, I feel compelled to let go of many older, especially the religious beliefs, in order to make room for the newer ones. Nevertheless, I do agree with a few ideas of Buddha and Hinduism. Also, I find it necessary to routinely pause and look from a broader perspective about life situations, similar to an Absurdist. Though I still dream to live my life like a mystic or a passionate artist/lover/rebel, as of now, I would remain contented by a more practical existence until I find something worthy enough to dedicate my life to.
 
