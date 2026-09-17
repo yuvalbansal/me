@@ -293,6 +293,16 @@
 
   "books": [
     {
+      "title": "Brief Answers to the Big Questions",
+      "author": "Stephen Hawking",
+      "cover": "/books/brief-answers-to-the-big-questions.jpg",
+      "rating": 5,
+      "category": "Science & Philosophy",
+      "dateRead": "Sep 2026",
+      "pages": 220,
+      "note": "A collection of Hawking's reflections on some of humanity's biggest questions, spanning science, existence, technology, and the future of our species."
+    },
+    {
       "title": "Sophie's World",
       "author": "Jostein Gaarder",
       "cover": "/books/sophies-world.jpg",
